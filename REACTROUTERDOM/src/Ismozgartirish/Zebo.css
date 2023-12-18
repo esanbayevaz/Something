@@ -1,0 +1,8 @@
+main{
+    min-height: 30vh;
+    background-color: rgb(208, 214, 38);
+}
+button{
+    padding: 10px;
+    cursor: pointer;
+}
